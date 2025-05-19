@@ -16,12 +16,9 @@ An advanced **mixed-reality educational tool** designed to teach human heart ana
 
 ---
 
-## 🖼️ Screenshots
+## 🖼️ Video
 
-![Simulator View 1](Screenshots/Simulator_1.png)  
-![Simulator View 2](Screenshots/Simulator_2.png)  
-![Quiz Interaction](Screenshots/Simulator_4.png)  
-![Object Detection Simulation](Screenshots/Simulator_5.png)
+[▶️ Heartlab Simulator (MP4)](Screenshots/Heartlab.mp4)
 
 ---
 
