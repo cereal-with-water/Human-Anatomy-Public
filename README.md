@@ -2,7 +2,7 @@
 
 An advanced **mixed-reality educational tool** designed to teach human heart anatomy through **Apple Vision Pro**. Built using **Unity PolySpatial**, **YOLOv8 object detection**, and **AI-powered self-assessment**, this project enables fully immersive and hands-free learning for **medical students and faculty**.
 
----
+
 
 ## 📌 Features
 
@@ -14,13 +14,19 @@ An advanced **mixed-reality educational tool** designed to teach human heart ana
 ✅ **Offline Mode** – Full functionality without internet connection after deployment.  
 ✅ **Native AVP Deployment** – Runs natively on Apple Vision Pro with PolySpatial optimizations.
 
----
+<br><br>
 
-## 🖼️ Video Demo
 
-[![Watch the video](https://img.youtube.com/vi/TDhGBHax9co/0.jpg)](https://youtu.be/TDhGBHax9co)
 
----
+## 🎥 Video Demo
+
+<p align="center">
+  <a href="https://youtu.be/TDhGBHax9co" target="_blank">
+    <img src="https://img.youtube.com/vi/TDhGBHax9co/0.jpg" width="600" alt="Watch the demo video" />
+  </a><br><em>Click the image above to watch the demo video on YouTube.</em>
+</p>
+<br><br>
+
 
 ## 🛠️ Installation & Deployment
 
@@ -52,7 +58,7 @@ An advanced **mixed-reality educational tool** designed to teach human heart ana
    - Export Xcode project via PolySpatial UMP.  
    - In Xcode, set the same Wi-Fi network and Apple ID provisioning, then run on connected AVP.
 
----
+<br><br>
 
 ## 🚀 Usage
 
@@ -70,7 +76,7 @@ An advanced **mixed-reality educational tool** designed to teach human heart ana
 - **Analytics Dashboard**: Review student performance metrics and quiz scores offline.  
 - **Customization**: Extend to other organs by plugging in new 3D assets and detection markers.
 
----
+<br><br>
 
 ## ⚙️ Technical Architecture
 
@@ -78,7 +84,7 @@ An advanced **mixed-reality educational tool** designed to teach human heart ana
 2. **YOLOv8 ONNX**: Real-time detection pipeline integrated via Unity Barracuda.  
 3. **AI Layer**: Whisper ASR captures voice, GPT 3.5 responds; hosted locally in-app for offline.
 
----
+<br><br>
 
 ## 🧪 Testing & Validation
 
@@ -87,15 +93,15 @@ An advanced **mixed-reality educational tool** designed to teach human heart ana
 - **Feedback**: Faculty rated usability & learning efficacy at **4.8/5** in pilot studies.  
 - **Limitations**: Real-device camera access currently simulated due to AVP permission constraints.
 
----
+<br><br>
 
 ## 📦 Project Size & Constraints
 
 - **Total Build**: ~9 GB (includes all assets & detection model).  
 - **Offline First**: No runtime internet dependency; initial licensing required.  
 - **Permissions**: AVP camera access pending special license—fallback to simulation mode.
+<br><br>
 
----
 
 ## 📜 License
 
