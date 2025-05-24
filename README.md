@@ -115,7 +115,7 @@ This enables spatial alignment between the virtual 3D model and the real-world h
 Training was conducted on over 2,300 labeled images.  
 The model achieved **95% precision & recall**, enabling reliable alignment and detection in mixed-reality settings.
 <p align="center">
-  <img src="Screenshots/f4.png" alt="YOLOv8 Object Detection" width="400"/>
+  <img src="Screenshots/f4.png" alt="YOLOv8 Object Detection" width="300"/>
   <img src="Screenshots/f5.png" alt="Metric 1" width="150"/>
   <img src="Screenshots/f6.png" alt="Metric 2" width="150"/>
   <img src="Screenshots/f7.png" alt="Metric 3" width="150"/>
