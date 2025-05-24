@@ -2,6 +2,10 @@
 
 An advanced **mixed-reality educational tool** designed to teach human heart anatomy through **Apple Vision Pro**. Built using **Unity PolySpatial**, **YOLOv8 object detection**, and **AI-powered self-assessment**, this project enables fully immersive and hands-free learning for **medical students and faculty**.
 
+> ⚠️ Note: At the request of the project owner, the full source code cannot be made publicly available.  
+> This repository focuses on demonstrating key features and interaction design.  
+> Thank you for your understanding.
+
 
 
 ## 📌 Features
