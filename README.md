@@ -99,6 +99,26 @@ An advanced **mixed-reality educational tool** designed to teach human heart ana
 
 <br><br>
 
+## 🧠 Object Detection with YOLOv8
+
+We implemented real-time object detection to track the physical heart model using YOLOv8 and Roboflow.  
+This enables spatial alignment between the virtual 3D model and the real-world heart replica.
+
+<p align="center">
+  <img src="Screenshots/f1.png" alt="YOLOv8 Object Detection" width="800"/>
+</p>
+
+Training was conducted on over 2,300 labeled images.  
+The model achieved **95% precision & recall**, enabling reliable alignment and detection in mixed-reality settings.
+
+<p align="center">
+  <img src="Screenshots/f2.gif" alt="YOLOv8 Training Metrics" width="800"/>
+</p>
+<p align="center">
+  <img src="Screenshots/f3.jpg" alt="YOLOv8 Training Metrics2" width="800"/>
+</p>
+<br><br>
+
 ## 📦 Project Size & Constraints
 
 - **Total Build**: ~9 GB (includes all assets & detection model).  
