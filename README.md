@@ -106,30 +106,23 @@ This enables spatial alignment between the virtual 3D model and the real-world h
 
 <p align="center">
   <img src="Screenshots/f1.png" alt="YOLOv8 Object Detection" width="400"/>
-</p>
-<p align="center">
   <img src="Screenshots/f2.gif" alt="YOLOv8 Training Metrics" width="400"/>
 </p>
 <p align="center">
-  <img src="Screenshots/f3.jpg" alt="YOLOv8 Training Metrics2" width="400"/>
+  <img src="Screenshots/f3.jpg" alt="YOLOv8 Training Metrics2" width="700"/>
 </p>
 
 Training was conducted on over 2,300 labeled images.  
 The model achieved **95% precision & recall**, enabling reliable alignment and detection in mixed-reality settings.
 <p align="center">
   <img src="Screenshots/f4.png" alt="YOLOv8 Object Detection" width="400"/>
+  <img src="Screenshots/f5.png" alt="Metric 1" width="150"/>
+  <img src="Screenshots/f6.png" alt="Metric 2" width="150"/>
+  <img src="Screenshots/f7.png" alt="Metric 3" width="150"/>
 </p>
+
 <p align="center">
-  <img src="Screenshots/f5.gif" alt="YOLOv8 Training Metrics" width="400"/>
-</p>
-<p align="center">
-  <img src="Screenshots/f6.jpg" alt="YOLOv8 Training Metrics2" width="400"/>
-</p>
-<p align="center">
-  <img src="Screenshots/f7.png" alt="YOLOv8 Object Detection" width="400"/>
-</p>
-<p align="center">
-  <img src="Screenshots/f8.gif" alt="YOLOv8 Training Metrics" width="400"/>
+  <img src="Screenshots/f8.png" alt="YOLOv8 Training Metrics" width="700"/>
 </p>
 
 
